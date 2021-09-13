@@ -1,0 +1,15 @@
+// import fons
+@import url("https://fonts.googleapis.com/css2?family=Open+Sans&family=PT+Sans&display=swap");
+
+* {
+	font-family: "Open Sans", sans-serif;
+}
+
+.primary-gradient {
+	background: #ff522f;
+	background: linear-gradient(to right, #dd2476, #ff512f);
+}
+
+// import partial file
+@import "./sass/extends";
+@import "./sass/login";
