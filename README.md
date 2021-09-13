@@ -3,6 +3,7 @@
 ### run `npm install`
 
 create config.env file.\
+in the config.env file create PORT = 4000 and MONGO_URI = your connection string mongodb and JWT_SECRET = you key jwt secret
 
 # Getting Started with Create React App
 
